@@ -1,0 +1,23 @@
+{
+  "name": "mocha-ts-test-example-pipe",
+  "version": "1.0.0",
+  "description": "Simple Template for Testing Project with Mocha + TypeScript",
+  "main": "src/pipe.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Mikhailiuk Vitalii (vmykhailiuk.chanel@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@types/chai": "^4.3.12",
+    "@types/mocha": "^10.0.6",
+    "@types/node": "^20.11.24",
+    "mocha": "^10.3.0",
+    "typescript": "^5.3.3"
+  }
+}
